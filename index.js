@@ -79,7 +79,6 @@ function displayResult(winStatus, currPlayer, resultModal) {
 
     const announceTie = () => {
         msgDisplay.innerHTML = `It's a tie! Whew, that was close.`;
-        //Um projeto de jogo da velha seguindo as lições de padrões de módulo e funções de fábrica em JavaScript.
     }
     winStatus === true ? announceWinner() :announceTie();
 }
