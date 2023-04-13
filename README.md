@@ -32,7 +32,7 @@ English: Play with the tic-tac-toe game.
 
 <p align="center">
 
-![image](https://user-images.githubusercontent.com/74615811/231290505-79725a17-b499-403d-b31c-1d554d52d1b8.png)
+![Imagem do Projeto na versão Mobile](https://user-images.githubusercontent.com/74615811/231290505-79725a17-b499-403d-b31c-1d554d52d1b8.png)
 
 </p>
 
@@ -40,7 +40,7 @@ English: Play with the tic-tac-toe game.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 
-![Captura de tela 2023-04-11 181358](https://user-images.githubusercontent.com/74615811/231290710-82cd37e0-1dda-4358-a94a-c013e7176e44.png)
+![Imagem do Projeto na versão Web](https://user-images.githubusercontent.com/74615811/231290710-82cd37e0-1dda-4358-a94a-c013e7176e44.png)
   
 </p>
 
