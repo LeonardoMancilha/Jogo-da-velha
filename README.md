@@ -12,6 +12,10 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISHED&color=GREEN&style=for-the-badge"/>
 </p>
 
+Utilização de padrões de módulo e funções fábricas em JavaScript;
+Utilização de eventos, CSS DOM, arrays;
+Utilização de Arrow Function e Funções anônimas;
+
 ## 💻 Descrição do projeto / Description of the project
 
 <h2>Portuguese</h2> Um projeto de jogo da velha seguindo as lições de padrões de módulo e funções de fábrica em JavaScript. <br>
