@@ -1,16 +1,6 @@
 # <h1 align="center">Tic Tac Toe</h1>
+
 <img src="https://user-images.githubusercontent.com/74615811/231289617-90c4983f-c17e-415d-ba49-c4ee30b0c477.png" alt="Imagem do Tic Tac Toe">
-
-<p align="center">
-<img src="https://camo.githubusercontent.com/31ddbceac85190c41164841d133e4056da4d4ce57a1a3a8c7cbf40bff1cf71ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f64726f70626f782f64726f70626f782d73646b2d6a617661">
-<img src="https://user-images.githubusercontent.com/74615811/176503364-50b5ee48-3d6d-4ab3-ae4b-e6fb7724296b.svg">
-<img src="https://user-images.githubusercontent.com/74615811/176503773-dd0bc4ec-fbde-4e70-80d6-9695ff5ef67c.svg">
-<img src="https://img.shields.io/badge/Done%20by-Leonardo Machado-%df0000">
-</p>
-
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISHED&color=GREEN&style=for-the-badge"/>
-</p>
 
 Utilização de padrões de módulo e funções fábricas em JavaScript;
 Utilização de eventos, CSS DOM, arrays;
